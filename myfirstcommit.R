@@ -12,3 +12,5 @@ library(tidyverse)
 #You can push in through the terminal (or shell) with this:
 #$ git pushBack
 #Or you can do this in RStudio by clicking on the icon git (left, above) and click push
+
+#Pull -----
